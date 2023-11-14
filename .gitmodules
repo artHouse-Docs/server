@@ -1,0 +1,9 @@
+[submodule "main"]
+	path = main
+	url = git@github.com:artHouse-Docs/backend.git
+[submodule "api"]
+	path = api
+	url = git@github.com:artHouse-Docs/api.git
+[submodule "auth"]
+	path = auth
+	url = git@github.com:artHouse-Docs/authService.git
